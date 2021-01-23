@@ -1,8 +1,8 @@
-How to run
+## How to run
 
 1. Install all packages with `yarn`
 
-2. Create .env file on the root file with format below
+2. Create `.env` file on the root file with format below
 
 ```
 DB_HOST=<your db host, like localhost, 127.0.0.1, etc.>
