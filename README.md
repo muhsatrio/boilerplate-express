@@ -1,3 +1,9 @@
+## Inside this Boilerplate
+
+1. Express
+
+2. Sequelize
+
 ## How to run
 
 1. Install all packages with `yarn`
