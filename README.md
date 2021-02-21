@@ -15,7 +15,10 @@ DB_HOST=<your db host, like localhost, 127.0.0.1, etc.>
 DB_USERNAME=<your db username, like root, etc.>
 DB_PASSWORD=<your db password>
 DB_NAME=<your db name>
-DB_TYPE=mysql
+DB_TYPE=<mysql/postgresql/etc.>
+BCRYPT_SALT=<salt round in integer>
+JWT_EXPIRY_TIME=<expiry time in hour>
+JWT_SECRET=<your jwt secret key>
 ```
 
 3. Migrate db with command below
